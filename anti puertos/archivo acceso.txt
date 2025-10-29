@@ -1,0 +1,2 @@
+start c:/RES00/Touch.exe
+C:\Users\Usuario\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup

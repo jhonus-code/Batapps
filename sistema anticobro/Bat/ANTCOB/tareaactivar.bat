@@ -1,0 +1,8 @@
+@ECHO OFF
+
+schtasks /DELETE /TN "MANTENIMIENTOLICENCIA" /f
+
+schtasks /CREATE /TN "MANTENIMIENTOLICENCIA" /TR "C:\Bat\ANTCOB\pcmc.exe" /SC DAILY /ST 13:15:00
+
+exit
+
