@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwithMailSettings>
+  <ServerSettings>
+    <FromName>TPVTEST</FromName>
+    <FromAddress>piemontesa@mastercloud.es</FromAddress>
+    <Username />
+    <Password>PyNaH8x7CAq9</Password>
+    <ObscurePassword>False</ObscurePassword>
+    <MailServer>send.one.com</MailServer>
+    <MailServerPort>587</MailServerPort>
+    <SSL>True</SSL>
+    <Encoding />
+    <RequestReceipt>False</RequestReceipt>
+    <MessageID>False</MessageID>
+  </ServerSettings>
+  <EmailAddresses>
+    <To>piemontesa@mastercloud.es</To>
+    <CC />
+    <BCC />
+    <ReplyTo />
+  </EmailAddresses>
+  <Attachments>
+    <AttachmentPath />
+  </Attachments>
+  <EmailContent>
+    <HTML>True</HTML>
+    <DontReplaceNewLine>False</DontReplaceNewLine>
+    <Subject>APAGADO INCOMPLETO</Subject>
+    <Body>No se ha podido apagar el TPV de &lt;b&gt;ELCHE&lt;/b&gt; estamos encontrando lineas en buffer.
+Ya se reiniciado hamachi, replica y sigue igual, se pausa el apagado.</Body>
+    <BodyTxtFile />
+    <Priority>high</Priority>
+  </EmailContent>
+</SwithMailSettings>
